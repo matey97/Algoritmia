@@ -1,0 +1,10 @@
+wn,sn,n,sn,sne,wn,n,sn,sn,ne
+sw,ne,sw,sn,sn,se,sw,ne,wne,we
+wn,se,wne,wn,sn,ne,wn,se,we,we
+w,sn,se,we,wne,we,sw,ne,sw,e
+swe,wn,sn,se,we,sw,ne,sw,ne,we
+wn,se,wn,sn,se,wn,se,wn,se,we
+we,wn,e,wn,ne,we,wn,se,swn,e
+we,we,sw,se,sw,se,sw,n,ne,we
+we,sw,ne,wn,sn,sn,ne,swe,we,we
+swe,swn,s,se,swn,sn,s,sn,se,swe
